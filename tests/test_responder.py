@@ -1,8 +1,6 @@
-import concurrent
 import io
 
 import pytest
-import requests
 import yaml
 
 import responder
